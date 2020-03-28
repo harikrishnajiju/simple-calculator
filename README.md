@@ -1,2 +1,2 @@
 # simple-calculator
-a simple calculator that performs basic operations.
+A simple calculator that performs basic operations.
